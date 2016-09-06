@@ -6,16 +6,16 @@ When the data such as music library,vedios,pictures are to be setup in form of c
 ##Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-###Example Usage
+##Example Usage
 ```
 When CardView are to be added in the app
 ```
-###Technology Required 
+## Technology Required 
 * Android SDK version 2.1+
 * JDK 7+
 
 <img src="as.png" align="right" />
-###Installing
+## Installing
 1. Install JDK
 2. Install Android Studio
 
@@ -23,11 +23,11 @@ When CardView are to be added in the app
 1. set dependency compile'com.android.support:cardview-v7:21.0.+'
 2. set dependency compile'com.android.support:recyclerview-v7:21.0.+'
 
-##Contribute
+## Contribute
 Contributions are always welcome!
 Please read the [contribution guidelines](contribution.md) first.
 
-##License
+## License
 [MIT License](LICENSE)
 
 
