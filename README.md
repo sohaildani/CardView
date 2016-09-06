@@ -14,6 +14,7 @@ When CardView are to be added in the app
 * Android SDK version 2.1+
 * JDK 7+
 
+<img src="as.png" align="right" />
 ###Installing
 1. Install JDK
 2. Install Android Studio
