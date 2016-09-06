@@ -10,16 +10,16 @@ These instructions will get you a copy of the project up and running on your loc
 ```
 When CardView are to be added in the app
 ```
-## Technology Required 
+### Technology Required 
 * Android SDK version 2.1+
 * JDK 7+
 
 <img src="as.png" align="right" />
-## Installing
+### Installing
 1. Install JDK
 2. Install Android Studio
 
-## How to set dev environment
+### How to set dev environment
 1. set dependency compile'com.android.support:cardview-v7:21.0.+'
 2. set dependency compile'com.android.support:recyclerview-v7:21.0.+'
 
